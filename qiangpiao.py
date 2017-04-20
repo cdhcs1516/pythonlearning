@@ -12,7 +12,7 @@ import traceback
 ###容错做的不好，考虑的情况也不够多，大家见谅
 
 # 用户名，密码
-username = u"cdhcs1516"
+username = u"15201138386"
 passwd = u"chendonghui1234"
 # cookies值得自己去找, 下面两个分别是上海, 营口东
 starts = u"%u4E0A%u6D77%2CSHH"
